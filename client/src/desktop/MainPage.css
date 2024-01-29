@@ -1,0 +1,14 @@
+.weekWrap {
+    top: 50px;
+    position: relative;
+    width: 99vw;
+    height: calc(100vh - 150px);
+    display: flex; 
+}
+.leftPart, .rightPart {
+    position: relative;
+    width: 49%;
+}
+.save-btn {
+    margin: 1em;
+}
